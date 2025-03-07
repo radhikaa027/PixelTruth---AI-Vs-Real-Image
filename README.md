@@ -1,7 +1,3 @@
-Below is an example of a detailed README file that you can use for your GitHub repository:
-
----
-
 # PixelTruth: AI vs Real Image Detector
 
 PixelTruth is an advanced project aimed at distinguishing between authentic photographs and AI-generated images. With the rise of sophisticated synthetic image generation, PixelTruth leverages state-of-the-art machine learning techniques to help combat digital deception and ensure trust in visual content.
@@ -37,6 +33,9 @@ In today’s digital age, the line between authentic and synthetic visual conten
 ## Project Overview
 
 PixelTruth is built on a deep learning framework utilizing a Convolutional Neural Network (CNN) designed in TensorFlow and Keras. The system has been rigorously trained on a diverse dataset, and its performance is validated through comprehensive evaluation metrics. A user-friendly web interface, built using Streamlit, allows seamless image verification by uploading local files or specifying image URLs.
+
+![image](https://github.com/user-attachments/assets/69d092c9-b690-4f8d-91e8-aad8318f8df0)
+
 
 ---
 
